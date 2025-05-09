@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm **fishisnow**
 
-<!--
-**fishisnow/fishisnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **AI Native Coder** ｜一个还在重新学习、重塑思想的 AI 开发者
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ 技术方向
+| 🧠 AI 应用开发 | 🛠️ 全栈开发 | 🎨 产品设计 |
+|:--------------:|:-----------:|:-----------:|
+| LangChain, Prompt Engineering, Workflow | React / Node / Java / Python | 用户体验，界面优化 |
+
+---
+
+### 🚀 项目作品
+
+#### 🔹 Midscene Browser
+> 让 AI 替您操作浏览器的插件  
+👉 https://chromewebstore.google.com/detail/midscene-browser/nfpeeekdhenglhecglicddgmjiepbcph
+
+#### 🔹 AI Agent Prompt Lab
+> 一个探索开源 AI Agent Prompt 原理的网站  
+👉 https://fishisnow.github.io/agents-chat-collection/index.html
+
+#### 🔹 React 学习网站
+👉 https://react-helloworld-delta.vercel.app
+
+> “探索 AI 时代的开发新范式，从工具到思维。” – fishisnow
