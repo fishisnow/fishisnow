@@ -24,4 +24,5 @@
 #### 🔹 React 学习网站
 👉 https://react-helloworld-delta.vercel.app
 
+### Thoughts🤔
 > “探索 AI 时代的开发新范式，从工具到思维。” – fishisnow
