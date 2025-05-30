@@ -26,7 +26,7 @@
 👉 https://react-helloworld-delta.vercel.app
 
 #### 🔹 AI 心理博弈大 PK
-> 让各大厂商的 AI 参与一个 2/3 平均数的心理博弈游戏，看看谁笑到最后！
+> 让各大厂商的 AI 参与一个 2/3 平均数的心理博弈游戏，看看谁笑到最后！  
 👉 https://fishisnow.github.io/ai-game-theory
 
 ### Thoughts🤔
