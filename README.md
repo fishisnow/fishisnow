@@ -30,7 +30,7 @@
 👉 https://fishisnow.github.io/ai-game-theory
 
 #### 🔹 股市望远镜
-> 记录你的投资灵感，交易复盘，当天实时市场概况
+> 记录你的投资灵感，交易复盘，当天实时市场概况  
 👉 https://invest.fishisnow.xyz
 
 ### Thoughts🤔
