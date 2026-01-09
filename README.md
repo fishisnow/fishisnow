@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 项目作品
+### 🚀 项目
 
 #### 🔹 Midscene Browser
 > 让 AI 替您操作浏览器的插件  
@@ -28,6 +28,10 @@
 #### 🔹 AI 心理博弈大 PK
 > 让各大厂商的 AI 参与一个 2/3 平均数的心理博弈游戏，看看谁笑到最后！  
 👉 https://fishisnow.github.io/ai-game-theory
+
+#### 🔹 股市望远镜
+> 记录你的投资灵感，交易复盘，当天实时市场概况
+👉 https://invest.fishisnow.xyz
 
 ### Thoughts🤔
 > “探索 AI 时代的开发新范式，从工具到思维。” – fishisnow
