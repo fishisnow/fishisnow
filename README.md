@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **fishisnow**
 
-🎯 **AI Native Coder** ｜一个还在重新学习、重塑思想的 AI 开发者
+🎯 **AI Native Coder** ｜Code Is Cheap. Thinking Is the Bottleneck
 
 ---
 
