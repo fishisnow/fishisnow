@@ -13,7 +13,7 @@
 
 ### 🚀 项目
 
-#### square face generator
+#### 🔹 Square Face Generator
 > 一个复古 flash 技术的头像生成器现代重制版  
 👉 https://squareface.me
 
