@@ -13,6 +13,10 @@
 
 ### 🚀 项目
 
+#### square face generator
+> 一个复古 flash 技术的头像生成器现代重制版  
+👉 https://squareface.me
+
 #### 🔹 pdf to md & md to pdf converter
 > 完全基于浏览器客户端的 pdf to md & md to pdf 转换器  
 👉 https://mdpdf.net
