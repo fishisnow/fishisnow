@@ -5,9 +5,9 @@
 ---
 
 ### 🛠️ 技术方向
-| 🧠 AI 应用开发 | 🛠️ 全栈开发 | 🎨 产品设计 |
+| 🧠 AI 应用开发 | 🛠️ 全栈开发 | 🎨 系统编程 |
 |:--------------:|:-----------:|:-----------:|
-| LangChain, Prompt Engineering, Workflow | React / Node / Java / Python | 用户体验，界面优化 |
+| LangChain, Prompt Engineering, Workflow | React / Node / Java / Python | Agentic AI Systems & Distributed Systems |
 
 ---
 
@@ -40,6 +40,3 @@
 #### 🔹 AI 心理博弈大 PK
 > 让各大厂商的 AI 参与一个 2/3 平均数的心理博弈游戏，看看谁笑到最后！  
 👉 https://fishisnow.github.io/ai-game-theory
-
-### Thoughts🤔
-> “探索 AI 时代的开发新范式，从工具到思维。” – fishisnow
