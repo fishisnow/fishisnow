@@ -13,6 +13,10 @@
 
 ### 🚀 项目
 
+#### 🔹 AI Image Generator
+> AI 生图和修图的工具站  
+👉 https://pixae.app
+
 #### 🔹 Square Face Generator
 > 一个复古 flash 技术的头像生成器现代重制版  
 👉 https://squareface.me
