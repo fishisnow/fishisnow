@@ -14,7 +14,7 @@
 ### 🚀 项目
 
 #### 🔹 AI Image Generator
-> AI 生图和修图的工具站  
+> AI 图片视频一站式创作平台  
 👉 https://pixae.app
 
 #### 🔹 Square Face Generator
